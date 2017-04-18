@@ -1,0 +1,23 @@
+<svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="318" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 08:23:52 +0000   119356 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 08:23:52 +0000     6593 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 08:23:52 +0000      371 bytes  lib/elliptic.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 08:23:52 +0000     9349 bytes  lib/elliptic/curve/base.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 08:23:52 +0000    10967 bytes  lib/elliptic/curve/edwards.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 08:23:52 +0000      173 bytes  lib/elliptic/curve/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 08:23:52 +0000     4644 bytes  lib/elliptic/curve/mont.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 08:23:52 +0000    22859 bytes  lib/elliptic/curve/short.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 08:23:52 +0000     6443 bytes  lib/elliptic/curves.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 08:23:52 +0000     6236 bytes  lib/elliptic/ec/index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 08:23:52 +0000     3066 bytes  lib/elliptic/ec/key.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 08:23:52 +0000     2839 bytes  lib/elliptic/ec/signature.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 08:23:52 +0000     3523 bytes  lib/elliptic/eddsa/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 08:23:52 +0000     2533 bytes  lib/elliptic/eddsa/key.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 08:23:52 +0000     1739 bytes  lib/elliptic/eddsa/signature.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 08:23:52 +0000    32338 bytes  lib/elliptic/precomputed/secp256k1.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 08:23:52 +0000     2499 bytes  lib/elliptic/utils.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 08:23:52 +0000     3184 bytes  package.json</tspan>
+</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ elliptic@6.4.0 </tspan>
+<tspan x="10" y="90">  ├── bn.js@4.11.6 </tspan>
+<tspan x="10" y="106">  ├── brorand@1.1.0 </tspan>
+<tspan x="10" y="122">  ├── hash.js@1.0.3 </tspan>
+<tspan x="10" y="138">  ├── hmac-drbg@1.0.1 </tspan>
+<tspan x="10" y="154">  ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="170">  ├── minimalistic-assert@1.0.0 </tspan>
+<tspan x="10" y="186">  └── minimalistic-crypto-utils@1.0.1</tspan>
+</text>
+</svg>

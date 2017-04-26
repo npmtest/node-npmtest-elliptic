@@ -1,6 +1,6 @@
 # npmtest-elliptic
 
-#### test coverage for  [elliptic (v6.4.0)](https://github.com/indutny/elliptic)  [![npm package](https://img.shields.io/npm/v/npmtest-elliptic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-elliptic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-elliptic.svg)](https://travis-ci.org/npmtest/node-npmtest-elliptic)
+#### basic test coverage for  [elliptic (v6.4.0)](https://github.com/indutny/elliptic)  [![npm package](https://img.shields.io/npm/v/npmtest-elliptic.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-elliptic) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-elliptic.svg)](https://travis-ci.org/npmtest/node-npmtest-elliptic)
 
 #### EC cryptography
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-elliptic/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-elliptic/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-elliptic/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-elliptic/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-elliptic/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-elliptic/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-elliptic/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-elliptic/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-elliptic/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-elliptic/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-elliptic/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-elliptic/build/coverage.html/index.html)
 
@@ -104,7 +104,8 @@
         "unit": "istanbul test _mocha --reporter=spec test/index.js",
         "version": "grunt dist && git add dist/"
     },
-    "version": "6.4.0"
+    "version": "6.4.0",
+    "bin": {}
 }
 ```
 
